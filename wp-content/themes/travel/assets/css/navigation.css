@@ -1,18 +1,15 @@
 /* NAVIGATION */
 
-body {
-    font-family: 'Montserrat';
-}
-
 .navigation-container {
-    background-color: #ff00004d;
-    width: 85%;
+    width: 100%;
     margin: 0 auto;
-    padding: 20px 0;
+    padding: 20px 5%;
 
     display: flex;
     justify-content: space-between;
     align-items: center;
+    position: absolute;
+    z-index: 9;
 }
 
 /* Social Links */
