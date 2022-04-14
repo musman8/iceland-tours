@@ -1,0 +1,11 @@
+{
+  "name": "iceland-tours",
+  "version": "1.0.0",
+  "description": "travel website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
