@@ -1,0 +1,53 @@
+/* NAVIGATION */
+
+body {
+    font-family: 'Montserrat';
+}
+
+.navigation-container {
+    background-color: #ff00004d;
+    width: 85%;
+    margin: 0 auto;
+    padding: 20px 0;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Social Links */
+
+.navigation-sociallinks {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navigation-sociallinks--followus {
+    margin-right: 20px;
+    color: #585858;
+    cursor: default;
+}
+
+.navigation-sociallinks > p > a > span {
+    margin: 0px 5px;
+    color: #585858;
+    text-decoration: none;
+}
+
+/* Pages */
+
+.navigation-pages {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    text-transform: uppercase;
+}
+
+.navigation-pages > p > a {
+    margin: 0 20px;
+    cursor: pointer;
+    text-decoration: none;
+    color: #585858;
+}
